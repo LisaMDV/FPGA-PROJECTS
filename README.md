@@ -53,9 +53,3 @@ This collection of FPGA projects showcases various digital design techniques usi
 
 ---
 
-## Getting Started
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/FPGA-Projects.git
-   cd FPGA-Projects
