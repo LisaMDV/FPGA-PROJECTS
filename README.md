@@ -7,11 +7,7 @@ This repository contains a collection of FPGA-based projects, focusing on digita
 - [Projects](#projects)
   - [FSM Project](#fsm-project)
   - [Lab 5](#lab-5)
-  - [Lab 4 Counter](#lab-4-counter)
-- [Getting Started](#getting-started)
-- [Dependencies](#dependencies)
-- [Usage](#usage)
-- [License](#license)
+  - [Counter](#counter)
 
 ---
 
@@ -34,13 +30,7 @@ This collection of FPGA projects showcases various digital design techniques usi
 
 ---
 
-### Lab 5
-- **Description:** Lab 5 project involving FPGA design and implementation.
-- **Readme:** See [Lab 5 README](Lab5/README.md) for more details.
-
----
-
-### Lab 4 Counter
+### Counter
 - **Description:** Implementation of a digital counter using Verilog, including simulation and testbench files.
 - **Files:**
   - `counter.v` - Main counter implementation.
@@ -49,7 +39,7 @@ This collection of FPGA projects showcases various digital design techniques usi
   - `SYNC.v` - Synchronization logic.
   - `ADDTEST.v` - Additional test file.
   - `Counter.csv` - Data output from simulations.
-- **Readme:** See [Lab 4 Counter README](Lab_4_Counter/README.md) for more details.
+- **Readme:** See [Lab 4 Counter README](Counter/README.md) for more details.
 
 ---
 
